@@ -135,19 +135,24 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 ## OUTPUT:
 
 ### Dataset
-![ss1](./ss1.png)
+![image](https://user-images.githubusercontent.com/94619247/232685361-50336e43-dcb5-45ca-9f1e-8e04665a9eae.png)
+
 
 ### Scatter Plot
-![ss2](./ss2.png)
+![image](https://user-images.githubusercontent.com/94619247/232685403-c97878e2-a705-4613-bf95-a675bf51d94f.png)
+
 
 ### Y- values
-![ss3](./ss3.png)
+
+![image](https://user-images.githubusercontent.com/94619247/232685473-eb4f9baa-cb38-48a0-8e6a-eb75d733fa21.png)
 
 ### Error Plot
-![ss3](./ss4.png)
+![image](https://user-images.githubusercontent.com/94619247/232685515-0b10439c-9719-475f-8a31-80e5967760b2.png)
+
 
 ### Accuracy
-![ss5](./ss5.png)
+![image](https://user-images.githubusercontent.com/94619247/232685588-7d0518ce-5c36-4e16-bc62-a3e20fa0d101.png)
+
 
 ## Result:
 Thus, a perceptron for classification is implemented using python.
